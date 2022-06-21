@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tresaChan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java/javascript
+- 🌱 I’m learning c# now
+
 
 
 <!---
